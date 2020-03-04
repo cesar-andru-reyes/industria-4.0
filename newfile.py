@@ -1,0 +1,17 @@
+print('**************')
+print('data personal')
+print('**************')
+print('name:{}'.format('conor oconel'))
+print('age:{}'.format('24'))
+print('weight:{}'.format('72'))
+print('heigt:{}'.format('1.75'))
+print('number_of_children:{}'.format('0'))
+
+print('*************')
+print('strings')
+print('*************')
+print('name:{}'.format('conor'))
+print('last_name:{}'.format('oconel'))
+print('ID:{}'.format('012456789'))
+print('phone:{}'.format('+5277543211'))
+
